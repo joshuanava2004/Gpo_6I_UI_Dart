@@ -5,4 +5,4 @@ Ejemplos de listas, Map, Funciones, Clases y herencias
 - [ ] [Funciones basicas](https://dartpad.dev/?)
 - [ ] [Funcion Flecha](https://dartpad.dev/?)
 - [ ] [Clases](https://dartpad.dev/?9ffa403627ac3fe04ad833747f9aef3c)
-- [ ] [Herencia](https://dartpad.dev/?)
+- [ ] [Herencia](https://dartpad.dev/?ad569397648354924cb8c57bbb8e4b30)
